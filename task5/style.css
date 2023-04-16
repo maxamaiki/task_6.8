@@ -1,0 +1,14 @@
+body{
+    font-size: 20px;
+    font-weight: 900;;
+    font-style:normal;
+    text-align: center;
+    margin-top: 5%;
+    background-color:rgb(171, 174, 179);
+}
+
+button{
+    font-size: large;
+    font-style: italic;
+    background-color: bisque;
+}
